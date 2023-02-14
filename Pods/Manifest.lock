@@ -1,0 +1,20 @@
+PODS:
+  - ALProgressView (2.0.0)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - ALProgressView
+  - SnapKit (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - ALProgressView
+    - SnapKit
+
+SPEC CHECKSUMS:
+  ALProgressView: 547883405970e932d8f1f12b605aa4f6df08f155
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: ae53b05c59cf6931d915e58d120f97b6d8ad7ac9
+
+COCOAPODS: 1.11.3

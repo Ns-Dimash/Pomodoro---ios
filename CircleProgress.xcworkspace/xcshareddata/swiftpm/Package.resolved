@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "alprogressview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/alxrguz/ALProgressView",
+      "state" : {
+        "revision" : "54f42cb339924de1b37fe8ecdbe72a3336cbc73d",
+        "version" : "2.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
